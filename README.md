@@ -1,4 +1,5 @@
-# OSU Cloud and Mobile Development Project
+# PhoneGap Guide
+#OSU Cloud and Mobile Development Project
 A simple How-To Guide for setting up PhoneGap. 
 *  Created using Creative BootStrap Template
 
