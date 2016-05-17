@@ -1,5 +1,6 @@
 # PhoneGap Guide
-#OSU Cloud and Mobile Development Project
+##OSU Cloud and Mobile Development Project
+###http://chrisrathnam.com/Mobile/index.html 
 A simple How-To Guide for setting up PhoneGap. 
 *  Created using Creative BootStrap Template
 
